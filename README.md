@@ -28,3 +28,10 @@ Create a Server-Client program that prints “Hello client, your message was rec
 - Send “Hello client, your message was received successfully” to the client (RESPONSE).
 
 
+### Expected Output
+
+**Client** Console Screen
+```
+Hello client, your message was received successfully
+```
+
