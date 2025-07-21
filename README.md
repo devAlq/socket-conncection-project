@@ -1,4 +1,4 @@
-# Socket Echo Project
+# Socket Connection Project
 
 
 ### Objective
